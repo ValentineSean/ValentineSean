@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Valentine
+#### Software Engineer
+![Software Engineer](https://pbs.twimg.com/profile_banners/1334772919923318786/1608615355/1080x360)
 
-I'm Valentine and I do Web Based Systems Development
+I'm Valentine and I do Web Based Software Systems Development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentineSean&show_icons=true&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+Skills: PYTHON/ FLASK/ VUE JS / JS / MONGO/ SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentineSean&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning PyMongo 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ValentineSean)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/valentinesean)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/valentinesean)  
+
