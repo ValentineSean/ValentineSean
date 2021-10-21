@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Valentine
 #### Software Engineer
-![Software Engineer](https://pbs.twimg.com/profile_banners/1334772919923318786/1608615355/1080x360)
+![Software Engineer](https://github.com/ValentineSean/ValentineSean/blob/main/my_logo2.png)
 
 I'm Valentine and I do Web Based Software Systems Development
 
