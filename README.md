@@ -1,6 +1,6 @@
 ![Software Engineer](https://github.com/ValentineSean/ValentineSean/blob/main/my_logo2.png)
 
-# Hi there 👋, I'm Valentine
+# Valentine Sean Chanengeta 💻�
 ## Software Engineer
 
 ### Skills
