@@ -1,16 +1,19 @@
-![Software Engineer](https://github.com/ValentineSean/ValentineSean/blob/main/my_logo2.png)
+![Software Developer](https://github.com/ValentineSean/ValentineSean/blob/main/my_logo2.png)
 
 # Valentine Sean Chanengeta 💻
-## Software Engineer
+## Software Developer
 
 ### Skills
 - Python
 - Flask
-- JavaScript
-- Vue
 - MongoDB
 - SQL
+- Docker
 - Git
+- Data Scraping
+- Java
+- JavaScript
+- Vue
 
 ### Statistics
 
