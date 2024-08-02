@@ -6,14 +6,13 @@
 ### Skills
 - Python
 - Flask
+- Java
+- Spring Boot
 - MongoDB
-- SQL
+- MySQL
 - Docker
 - Git
 - Data Scraping
-- Java
-- JavaScript
-- Vue
 
 ### Statistics
 
